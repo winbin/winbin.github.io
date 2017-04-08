@@ -1,2 +1,0 @@
-webpackJsonp([3],{50:function(e,n,o){o(71);var s=o(0)(o(80),o(63),null,null);e.exports=s.exports},56:function(e,n,o){n=e.exports=o(42)(),n.push([e.i,"","",{version:3,sources:[],names:[],mappings:"",file:"weekly.vue",sourceRoot:""}])},63:function(e,n){e.exports={render:function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("\n    weekly\n")])},staticRenderFns:[]}},71:function(e,n,o){var s=o(56);"string"==typeof s&&(s=[[e.i,s,""]]),s.locals&&(e.exports=s.locals);o(43)("71940838",s,!0)},80:function(e,n){}});
-//# sourceMappingURL=3.e88ddefe2e1095fee607.js.map
